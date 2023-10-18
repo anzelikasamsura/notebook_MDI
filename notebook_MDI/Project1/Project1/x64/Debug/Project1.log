@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+D:\Учеба\оаип лр 5 MDI\Project1\Project1\MyForm1.h(212,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  MyForm1.cpp
+D:\Учеба\оаип лр 5 MDI\Project1\Project1\MyForm1.h(212,79): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project1.vcxproj -> D:\Учеба\оаип лр 5 MDI\Project1\x64\Debug\Project1.exe
